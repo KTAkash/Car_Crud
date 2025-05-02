@@ -7,7 +7,7 @@ import "./Header.css";
 const Header = ()=>{
    return(
    <>
-    <Navbar bg="dark" variant="dark">
+    <Navbar variant="dark">
     <Container>
     <Navbar.Brand><strong>Ad Car Services</strong></Navbar.Brand>
     <Nav className="ml-auto">
