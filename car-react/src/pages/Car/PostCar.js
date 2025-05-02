@@ -114,7 +114,7 @@ const PostCar = () => {
 
     return (
         <div className="center-form">
-            <h1>New Car</h1>
+            <h1>New Car Post</h1>
             <Form onSubmit={handleSubmit} encType="multipart/form-data">
                 <Form.Group controlId="formBasicName">
                     <Form.Control
